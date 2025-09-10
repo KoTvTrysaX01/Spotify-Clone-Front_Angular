@@ -1,7 +1,22 @@
-import {IconDefinition, faHome, faSearch, faCirclePlay} from "@fortawesome/free-solid-svg-icons";
+import {
+  IconDefinition,
+  faHome,
+  faSearch,
+  faCirclePlay,
+  faChevronLeft,
+  faChevronRight,
+  faBook,
+  faPlus,
+  faUser
+} from "@fortawesome/free-solid-svg-icons";
 
 export const fontAwesomeIcons: IconDefinition[] = [
   faCirclePlay,
   faHome,
-  faSearch
+  faSearch,
+  faBook,
+  faPlus,
+  faChevronLeft,
+  faChevronRight,
+  faUser
 ]
